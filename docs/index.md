@@ -5,6 +5,14 @@ I intend to make this website as my digital garden, in which it will includes my
 
 You can find me in [Twitter](https://twitter.com/rapradono), [Mastodon](https://fediscience.org/@rapradono), [Github](https://github.com/rapradono), and [Google Scholar](https://scholar.google.com/citations?user=ZXYD8hsAAAAJ&hl=en).  
 
+### Formatting Test
+H~2~O
+X^2^
+```Python
+code test
+```
+http://www.example.com
+
 ### Link Test
 - [[Note 1]]
 - [[Note 2]]
